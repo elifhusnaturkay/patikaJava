@@ -1,3 +1,4 @@
+package TemelKavramlarveDegiskenler;
 import java.util.Scanner;
 
 public class triangleArea {
